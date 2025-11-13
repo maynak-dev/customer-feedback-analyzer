@@ -1,0 +1,9 @@
+
+Customer Feedback Analysis Report
+----------------------------------
+Total Feedbacks: 96
+Positive: 43
+Negative: 33
+Neutral: 20
+
+Overall Sentiment: Positive
