@@ -112,7 +112,7 @@ Overall Sentiment: Positive
 
 ### 📊 Example Visualization
 *(Word cloud generated from cleaned feedback text)*  
-![Word Cloud](https://user-images.githubusercontent.com/example/wordcloud.png)
+![Word Cloud](https://raw.githubusercontent.com/maynak-dev/customer-feedback-analyzer/main/wordcloud.png)
 
 ---
 
